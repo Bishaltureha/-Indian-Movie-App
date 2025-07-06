@@ -11,11 +11,11 @@ The primary objective of this project is to create a tailored product recommenda
 ## :camera_flash: Screenshots
 
 <div align="center" style="margin:auto;width:100%;display:flex;justify-content:center;align-items:center;flex-wrap:wrap;">
-<img width="250px" margin="30px" style="margin:20px;" src="./readme/1.png"/>
-<img width="250px" margin="30px" style="margin:20px;" src="./readme/2.png"/>
-<img width="250px" margin="30px" style="margin:20px;" src="./readme/3.png"/>
-<img width="250px" margin="30px" style="margin:20px;" src="./readme/4.png"/>
-<img width="250px" margin="30px" style="margin:20px;" src="./readme/5.png"/>
+<img width="250px" margin="30px" style="margin:20px;" src="./readme/img1.png"/>
+<img width="250px" margin="30px" style="margin:20px;" src="./readme/img2.png"/>
+<img width="250px" margin="30px" style="margin:20px;" src="./readme/img3.png"/>
+<img width="250px" margin="30px" style="margin:20px;" src="./readme/img4.png"/>
+<img width="250px" margin="30px" style="margin:20px;" src="./readme/img5.png"/>
 </div>
 <br>
 <br>
