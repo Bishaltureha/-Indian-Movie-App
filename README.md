@@ -4,7 +4,40 @@
 
 ## Introduction
 
-The primary objective of this project is to create a tailored product recommendation system. Our aim is to design an algorithm capable of accurately and meaningfully suggesting products that align with the user's preferences, ultimately reducing the likelihood of product returns.
+🎬 Indian Movie App
+Welcome to the Indian Movie App, a beautifully crafted React Native application that lets users discover trending Indian movies and TV shows with rich UI features and seamless navigation. The app integrates with TMDB API to fetch real-time data including movies, TV series, trailers, actor details, and more.
+
+🌟 Key Features
+🔍 Search Indian movies with real-time suggestions and recent history.
+
+🖼️ Banner for featured movies with smooth navigation to details.
+
+🎞️ Multiple rows for Trending, Top Rated, New Releases, and Series.
+
+🎥 Movie Details Screen with overview, ratings, trailer, and cast.
+
+❤️ Favorites functionality using AsyncStorage.
+
+🧑‍🎤 Actor Details Screen with biography and known works.
+
+🌙 Dark Mode support with a toggle.
+
+📺 See All Screen to view full movie lists from any category.
+
+🛠️ Tech Stack
+React Native CLI
+
+TMDB API
+
+AsyncStorage
+
+react-native-youtube-iframe
+
+react-navigation
+
+react-native-vector-icons
+
+Custom Theme Context
 
 ---
 
